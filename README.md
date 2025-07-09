@@ -1,5 +1,5 @@
 # 💫 About Me:
- Dedicated software developer skilled in Java, Spring Boot, SQL, JDBC, Javascript, React and full-stack development. Hands-on experience with machine learning and game development. Strong problem-solving skills with a focus on scalable systems.
+ Dedicated software developer specializing in MERN stack development with a interest in backend engineering. Proficient in building scalable web applications using MongoDB, Express.js, React, and Node.js. Skilled in Java and data structures and algorithms (DSA), with solid problem-solving abilities.
 
 
 ## 🌐 Socials:
